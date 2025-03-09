@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/expo-todo-list/static/js/main.3877ea35.js",
+    "static/js/198.ff518915.js": "/expo-todo-list/static/js/198.ff518915.js",
+    "static/media/FontAwesome.ttf": "/expo-todo-list/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/DMSans_400Regular_Italic.ttf": "/expo-todo-list/static/media/DMSans_400Regular_Italic.bfe023d2d0f8f749d319.ttf",
+    "static/media/DMSans_700Bold_Italic.ttf": "/expo-todo-list/static/media/DMSans_700Bold_Italic.4d8bbef07cd86c84abbf.ttf",
+    "static/media/DMSans_500Medium_Italic.ttf": "/expo-todo-list/static/media/DMSans_500Medium_Italic.19d92c62cdf09de646c1.ttf",
+    "static/media/DMSans_400Regular.ttf": "/expo-todo-list/static/media/DMSans_400Regular.4ee96395e07a04577aab.ttf",
+    "static/media/DMSans_700Bold.ttf": "/expo-todo-list/static/media/DMSans_700Bold.c423ce2dc1d85bc50799.ttf",
+    "static/media/DMSans_500Medium.ttf": "/expo-todo-list/static/media/DMSans_500Medium.150680530af9dd9fd00b.ttf",
+    "favicon.ico": "/expo-todo-list/favicon.ico",
+    "static/media/taskiologo.png": "/expo-todo-list/static/media/taskiologo.45e3213048dde6e1e5fd.png",
+    "index.html": "/expo-todo-list/index.html",
+    "static/media/rocket.png": "/expo-todo-list/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/expo-todo-list/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/expo-todo-list/favicon-32.png",
+    "static/media/star.png": "/expo-todo-list/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/expo-todo-list/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/expo-todo-list/favicon-16.png",
+    "manifest.json": "/expo-todo-list/manifest.json",
+    "serve.json": "/expo-todo-list/serve.json",
+    "main.3877ea35.js.map": "/expo-todo-list/static/js/main.3877ea35.js.map",
+    "198.ff518915.js.map": "/expo-todo-list/static/js/198.ff518915.js.map"
+  },
+  "entrypoints": [
+    "static/js/198.ff518915.js",
+    "static/js/main.3877ea35.js"
+  ]
+}

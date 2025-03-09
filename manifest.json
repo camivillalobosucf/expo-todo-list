@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "expo-todo-list",
+  "short_name": "expo-todo-list",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
